@@ -1,0 +1,118 @@
+Model 2.1a
+
+SPICE: 0.112
+CIDEr: 0.448
+Bleu_4: 0.168
+Bleu_3: 0.251
+Bleu_2: 0.377
+Bleu_1: 0.576
+ROUGE_L: 0.431
+METEOR: 0.193
+SPICE: 0.112
+('Average human evaluation score for naturalness: ', 4.580645161290323)
+('Average human evaluation score for quality: ', 5.311827956989247)
+('Average human evaluation score for informativeness: ', 4.268817204301075)
+
+Model 2.1b
+
+SPICE: 0.130
+CIDEr: 0.596
+Bleu_4: 0.226
+Bleu_3: 0.316
+Bleu_2: 0.448
+Bleu_1: 0.633
+ROUGE_L: 0.469
+METEOR: 0.202
+SPICE: 0.130
+('Average human evaluation score for naturalness: ', 5.204301075268817)
+('Average human evaluation score for quality: ', 5.462365591397849)
+('Average human evaluation score for informativeness: ', 4.838709677419355)
+
+Model 2.2a
+
+SPICE: 0.143
+CIDEr: 0.640
+Bleu_4: 0.230
+Bleu_3: 0.328
+Bleu_2: 0.467
+Bleu_1: 0.658
+ROUGE_L: 0.475
+METEOR: 0.210
+SPICE: 0.143
+('Average human evaluation score for naturalness: ', 5.10752688172043)
+('Average human evaluation score for quality: ', 5.290322580645161)
+('Average human evaluation score for informativeness: ', 3.849462365591398
+
+Model 2.2b
+
+SPICE: 0.126
+CIDEr: 0.568
+Bleu_4: 0.199
+Bleu_3: 0.286
+Bleu_2: 0.414
+Bleu_1: 0.596
+ROUGE_L: 0.457
+METEOR: 0.203
+SPICE: 0.126
+('Average human evaluation score for naturalness: ', 5.129032258064516)
+('Average human evaluation score for quality: ', 5.548387096774194)
+('Average human evaluation score for informativeness: ', 4.193548387096774)
+
+Model 2.3a
+
+SPICE: 0.103
+CIDEr: 0.359
+Bleu_4: 0.151
+Bleu_3: 0.224
+Bleu_2: 0.333
+Bleu_1: 0.512
+ROUGE_L: 0.404
+METEOR: 0.178
+SPICE: 0.103
+('Average human evaluation score for naturalness: ', 5.32258064516129)
+('Average human evaluation score for quality: ', 5.623655913978495)
+('Average human evaluation score for informativeness: ', 3.4838709677419355)
+
+Model 2.3b
+
+CIDEr: 0.648
+Bleu_4: 0.235
+Bleu_3: 0.330
+Bleu_2: 0.465
+Bleu_1: 0.645
+ROUGE_L: 0.478
+METEOR: 0.215
+SPICE: 0.139
+('Average human evaluation score for naturalness: ', 5.129032258064516)
+('Average human evaluation score for quality: ', 5.731182795698925)
+('Average human evaluation score for informativeness: ', 4.10752688172043)
+
+Model 2.4a 
+
+CIDEr: 0.513
+Bleu_4: 0.208
+Bleu_3: 0.299
+Bleu_2: 0.424
+Bleu_1: 0.608
+ROUGE_L: 0.452
+METEOR: 0.193
+SPICE: 0.131
+('Average human evaluation score for naturalness: ', 5.473118279569892)
+('Average human evaluation score for quality: ', 5.860215053763441)
+('Average human evaluation score for informativeness: ', 4.10752688172043)
+
+Model 2.4b
+
+CIDEr: 0.609
+Bleu_4: 0.233
+Bleu_3: 0.324
+Bleu_2: 0.445
+Bleu_1: 0.624
+ROUGE_L: 0.465
+METEOR: 0.205
+SPICE: 0.141
+('Average human evaluation score for naturalness: ', 5.297872340425532)
+('Average human evaluation score for quality: ', 5.808510638297872)
+('Average human evaluation score for informativeness: ', 4.659574468085107)
+
+

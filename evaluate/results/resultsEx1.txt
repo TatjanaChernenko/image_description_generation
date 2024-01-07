@@ -1,0 +1,148 @@
+Results Experiments Set 1
+
+Model 1
+
+SPICE: 0.061
+CIDEr: 0.172
+Bleu_4: 0.105
+Bleu_3: 0.167
+Bleu_2: 0.272
+Bleu_1: 0.489
+ROUGE_L: 0.375
+METEOR: 0.113
+SPICE: 0.061
+('Average human evaluation score for naturalness: ', 1.1290322580645162)
+('Average human evaluation score for quality: ', 1.10752688172043)
+('Average human evaluation score for informativeness: ', 1.5806451612903225)
+('Flesch score: ', 115.13000000000002)
+
+################################################################
+
+Model 2
+
+SPICE: 0.142
+CIDEr: 0.621
+Bleu_4: 0.219
+Bleu_3: 0.311
+Bleu_2: 0.439
+Bleu_1: 0.628
+ROUGE_L: 0.457
+METEOR: 0.200
+SPICE: 0.142
+('Average human evaluation score for naturalness: ', 5.258064516129032)
+('Average human evaluation score for quality: ', 5.591397849462366)
+('Average human evaluation score for informativeness: ', 4.150537634408602)
+('Flesch score: ', 113.10000000000002)
+
+###################################################################
+
+Model 3
+
+SPICE: 0.139
+CIDEr: 0.582
+Bleu_4: 0.194
+Bleu_3: 0.291
+Bleu_2: 0.430
+Bleu_1: 0.618
+ROUGE_L: 0.461
+METEOR: 0.203
+SPICE: 0.139
+('Average human evaluation score for naturalness: ', 5.204301075268817)
+('Average human evaluation score for quality: ', 5.526881720430108)
+('Average human evaluation score for informativeness: ', 4.150537634408602)
+('Flesch score: ', 113.10000000000002)
+
+###################################################################
+
+Model 4
+
+SPICE: 0.063
+CIDEr: 0.197
+Bleu_4: 0.092
+Bleu_3: 0.155
+Bleu_2: 0.269
+Bleu_1: 0.492
+ROUGE_L: 0.378
+METEOR: 0.124
+SPICE: 0.063
+('Average human evaluation score for naturalness: ', 1.4946236559139785)
+('Average human evaluation score for quality: ', 1.5376344086021505)
+('Average human evaluation score for informativeness: ', 1.8172043010752688)
+('Flesch score: ', 114.11500000000001)
+
+######################################################################
+
+Model 5
+
+SPICE: 0.106
+CIDEr: 0.384
+Bleu_4: 0.158
+Bleu_3: 0.229
+Bleu_2: 0.341
+Bleu_1: 0.516
+ROUGE_L: 0.418
+METEOR: 0.175
+SPICE: 0.106
+('Average human evaluation score for naturalness: ', 5.148148148148148)
+('Average human evaluation score for quality: ', 5.574074074074074)
+('Average human evaluation score for informativeness: ', 3.1944444444444446)
+('Flesch score: ', 112.08500000000001)
+
+
+######################################################################
+
+Model 6
+
+SPICE: 0.124
+CIDEr: 0.502
+Bleu_4: 0.170
+Bleu_3: 0.254
+Bleu_2: 0.379
+Bleu_1: 0.573
+ROUGE_L: 0.435
+METEOR: 0.199
+SPICE: 0.124
+('Average human evaluation score for naturalness: ', 5.086021505376344)
+('Average human evaluation score for quality: ', 5.548387096774194)
+('Average human evaluation score for informativeness: ', 4.279569892473118)
+('Flesch score: ', 112.08500000000001)
+
+
+######################################################################
+
+Model 7
+
+SPICE: 0.122
+CIDEr: 0.540
+Bleu_4: 0.185
+Bleu_3: 0.275
+Bleu_2: 0.415
+Bleu_1: 0.616
+ROUGE_L: 0.447
+METEOR: 0.201
+SPICE: 0.122
+('Average human evaluation score for naturalness: ', 5.075268817204301)
+('Average human evaluation score for quality: ', 5.333333333333333)
+('Average human evaluation score for informativeness: ', 3.989247311827957)
+('Flesch score: ', 113.10000000000002)
+
+
+######################################################################
+
+Model 8 
+
+SPICE: 0.130
+CIDEr: 0.565
+Bleu_4: 0.195
+Bleu_3: 0.288
+Bleu_2: 0.422
+Bleu_1: 0.613
+ROUGE_L: 0.453
+METEOR: 0.205
+SPICE: 0.130
+('Average human evaluation score for naturalness: ', 5.0)
+('Average human evaluation score for quality: ', 5.537634408602151)
+('Average human evaluation score for informativeness: ', 4.086021505376344)
+('Flesch score: ', 112.08500000000001)
+
+

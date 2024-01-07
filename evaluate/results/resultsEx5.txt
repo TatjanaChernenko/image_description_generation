@@ -1,0 +1,13 @@
+Model 5.1
+
+CIDEr: 0.630
+Bleu_4: 0.230
+Bleu_3: 0.333
+Bleu_2: 0.475
+Bleu_1: 0.665
+ROUGE_L: 0.479
+METEOR: 0.210
+SPICE: 0.138
+('Average human evaluation score for naturalness: ', 4.516129032258065)
+('Average human evaluation score for quality: ', 4.924731182795699)
+('Average human evaluation score for informativeness: ', 4.075268817204301)

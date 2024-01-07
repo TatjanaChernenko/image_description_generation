@@ -1,0 +1,29 @@
+Model 4.1b
+
+SPICE: 0.099
+CIDEr: 0.396
+Bleu_4: 0.174
+Bleu_3: 0.256
+Bleu_2: 0.380
+Bleu_1: 0.571
+ROUGE_L: 0.435
+METEOR: 0.175
+SPICE: 0.099
+('Average human evaluation score for naturalness: ', 5.5)
+('Average human evaluation score for quality: ', 5.838709677419355)
+('Average human evaluation score for informativeness: ', 4.645161290322581)
+
+Model 4.2
+
+CIDEr: 0.586
+Bleu_4: 0.222
+Bleu_3: 0.322
+Bleu_2: 0.460
+Bleu_1: 0.652
+ROUGE_L: 0.470
+METEOR: 0.204
+SPICE: 0.131
+('Average human evaluation score for naturalness: ', 5.010752688172043)
+('Average human evaluation score for quality: ', 5.462365591397849)
+('Average human evaluation score for informativeness: ', 3.956989247311828)
+

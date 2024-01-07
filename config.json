@@ -1,0 +1,237 @@
+{
+    "data_sets": [{
+            "name": "coco",
+            "auth": {
+                "username": "",
+                "password": ""
+            },
+            "annotations": [{
+                "url": "http://images.cocodataset.org/annotations/annotations_trainval2014.zip",
+                "filename": "annotations_trainval2014.zip",
+                "target_path": "assets/coco/"
+            }, {
+                "url": "http://images.cocodataset.org/annotations/image_info_test2014.zip",
+                "filename": "image_info_test2014.zip",
+                "target_path": "assets/coco/"
+            }],
+            "folder": "annotations",
+            "validation": 6
+        },
+        {
+            "name": "coco-a",
+            "auth": {
+                "username": "cocoa_user",
+                "password": "7mshdA#XVOnW5"
+            },
+            "annotations": [{
+                "url": "http://www.vision.caltech.edu/~mronchi/projects/Cocoa/Dataset/cocoa_beta2015.zip",
+                "filename": "cocoa_beta2015.zip",
+                "target_path": "assets/coco-a/"
+            }, {
+                "url": "http://www.vision.caltech.edu/~mronchi/projects/Cocoa/Dataset/visual_verbnet_beta2015.zip",
+                "filename": "visual_verbnet_beta2015.zip",
+                "target_path": "assets/coco-a/"
+            }],
+            "folder": "coco-a",
+            "validation": 2
+        }
+    ],
+    "prepare_data_sets": [{
+            "data_sets": ["coco", "coco-a"],
+            "name": "1.1_2_3",
+            "filename": "1.1_2_3.bin",
+            "vocab_filename": "vocab_1.1_2_3.bin",
+            "annotators": ["1"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "category",
+                    "supercategory",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "supercategory",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco", "coco-a"],
+            "name": "1.4_5_6",
+            "filename": "1.4_5_6.bin",
+            "vocab_filename": "vocab_1.4_5_6.bin",
+            "annotators": ["1"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "category",
+                    "supercategory",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "supercategory",
+                    "anns",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco", "coco-a"],
+            "name": "1.7_8_9",
+            "filename": "1.7_8_9.bin",
+            "vocab_filename": "vocab_1.7_8_9.bin",
+            "annotators": ["1"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "anns",
+                    "supercategory",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco", "coco-a"],
+            "name": "4.1a",
+            "filename": "4.1a.bin",
+            "vocab_filename": "vocab_4.1a.bin",
+            "annotators": ["3"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "category",
+                    "supercategory",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "supercategory",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco", "coco-a"],
+            "name": "4.1b",
+            "filename": "4.1b.bin",
+            "vocab_filename": "vocab_4.1b.bin",
+            "annotators": ["3"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "category",
+                    "supercategory",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "supercategory",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco", "coco-a"],
+            "name": "4.1c",
+            "filename": "4.1c.bin",
+            "vocab_filename": "vocab_4.1c.bin",
+            "annotators": ["3"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ],
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "category",
+                    "anns",
+                    "supercategory",
+                    "name"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco-a"],
+            "name": "coco_a_only",
+            "filename": "coco_a_only.bin",
+            "vocab_filename": "vocab_coco_a_only.bin",
+            "annotators": ["1", "2", "3"],
+            "properties": {
+                "coco-a": [
+                    "coco-a",
+                    "name",
+                    "category",
+                    "supercategory",
+                    "subject",
+                    "object",
+                    "visual_actions",
+                    "visual_adverbs"
+                ]
+            }
+        },
+        {
+            "data_sets": ["coco"],
+            "name": "5.1",
+            "filename": "5.1.bin",
+            "vocab_filename": "vocab_5.1.bin",
+            "properties": {
+                "coco": [
+                    "coco",
+                    "caption",
+                    "captions",
+                    "anns",
+                    "category",
+                    "name",
+                    "supercategory"
+                ]
+            }
+        }
+    ]
+}
