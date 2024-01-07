@@ -1,20 +1,20 @@
 
 # NL Generation from structured inputs
 
-Tatjana Chernenko, Kim Almasan, Siting Liang, Bente Nittka 12th June, 2018
+Authors: Tatjana Chernenko, Kim Almasan, Siting Liang, Bente Nittka 12th June, 2018
 
 Natural Language Generation using structured input. 
 Generating descriptions from textual attributes.
 
-[Demo](https://github.com/TatjanaChernenko/image_description_generation/blob/main/Demo.ipynb)
 
-[Project specification](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Specification_report.pdf)
+| Resource                                           | Link                                                                                         |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Demo**                                           | [Demo Notebook](https://github.com/TatjanaChernenko/image_description_generation/blob/main/Demo.ipynb)    |
+| **Project Specification**                          | [Specification Report](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Specification_report.pdf)   |
+| **Resulting Paper**                                | [Paper on NL Generation](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)   |
+| **Presentation**                                   | [Project Presentation](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation__Praesentation.pdf)   |
+| **Models & Hyperparameters**                       | [Models and Hyperparameters](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Models.xlsx)    |
 
-[Resulting paper](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)
-
-[Presentation](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation__Praesentation.pdf)
-
-[Models, hyperparameters](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Models.xlsx)
 
 # Problem Definition
 The recent significant improvements in *generating natural language 
