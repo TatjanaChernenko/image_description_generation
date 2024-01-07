@@ -6,13 +6,15 @@ Tatjana Chernenko, Kim Almasan, Siting Liang, Bente Nittka 12th June, 2018
 Natural Language Generation using structured input. 
 Generating descriptions from textual attributes.
 
-[Project specification]()
+[Demo](https://github.com/TatjanaChernenko/image_description_generation/blob/main/Demo.ipynb)
 
-[Resulting paper]()
+[Project specification](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Specification_report.pdf)
 
-[Presentation]()
+[Resulting paper](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)
 
-[Models, hyperparameters]()
+[Presentation](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation__Praesentation.pdf)
+
+[Models, hyperparameters](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/NL_generation_Models.xlsx)
 
 # Problem Definition
 The recent significant improvements in *generating natural language 
@@ -50,7 +52,7 @@ The project evolves in stages, starting with the MS COCO dataset and incremental
 
 The evaluation involves automatic metrics like BLEU, METEOR, CIDEr, semantic similarity, and grammar-based measures along with human evaluations. The system's development, comparison against baselines, and enhancements are tracked using GitLab. The project employs TensorFlow, PlaidML, and Keras for the machine learning framework, integrating NLTK for evaluation and comparison purposes.
 
-### Please find more information about the apporach, architecture and research results in [doc]() folder.
+### Please find more information about the apporach, architecture and research results in [doc](https://github.com/TatjanaChernenko/image_description_generation/tree/main/docs) folder.
 
 # Requirements
 
